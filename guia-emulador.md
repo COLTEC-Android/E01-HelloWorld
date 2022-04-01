@@ -1,0 +1,1 @@
+Essas funções podem ser acessadas clicando nos 3 pontos da barra lateral do emulador (...). Nesse menu é possível definir o nível da bateria bem como a sua saúde por exemplo. Para os recursos de GPS é possível dar coordenadas adicianando pontos ou até mesmo rotas. Para os recursos de ligação é possível adicionar números e fazer ligações.
