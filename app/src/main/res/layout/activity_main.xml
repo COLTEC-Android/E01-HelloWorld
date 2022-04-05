@@ -29,14 +29,4 @@
         android:textColor="@color/light_blue"
         android:gravity="center"/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Bateria"
-        android:layout_gravity="center"
-        android:layout_marginTop="40dp"
-        android:textColor="@color/white"
-        android:textSize="30dp"
-        android:id="@+id/butBateria"/>
-
 </LinearLayout>
